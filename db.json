@@ -1,9 +1,93 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "users": [
+    {
+      "name": "Fulano",
+      "email": "tobe@becode.com",
+      "password": "$2a$10$KHX3SQVZN6qQO/rwSjCnaOXxH0vWxuudDQLYhvqVjTiqGI4g9.gj6",
+      "id": 1
+    },
+    {
+      "name": "Dev",
+      "email": "dev@gmail.com",
+      "password": "$2a$10$.DJd1OmBEDtEYSFrt1igK.jO1pxu/Xg5tnzt7c5YGdZ8q9sB1Q36G",
+      "id": 2
+    },
+    {
+      "name": "BeCode",
+      "email": "becode@tobe.com",
+      "password": "$2a$10$SZWJd5eSnnNYMdJ32qrSv.bQCoSHWLHNo1n6.OiDPP3TPXmFJsYe.",
+      "id": 3
+    },
+    {
+      "name": "ToBe",
+      "email": "tobe@becode.com",
+      "password": "$2a$10$1axdRzEpPzszMc0sn25Xhunx2labM6//7IH1jClUND3S002o7sPSi",
+      "id": 4
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "courses": [
+    {
+      "id": 1,
+      "title": "Liderança",
+      "description": "Neste curso você desenvolverá as habilidades necessárias para liderar nesse cenário em que a única constante é a mudança."
+    },
+    {
+      "id": 2,
+      "title": "Oratória",
+      "description": "Aprenda a se expressar de forma clara e objetiva, melhorando sua comunicação interpessoal e, consequentemente, se destacando educacional e profissionalmente."
+    },
+    {
+      "id": 3,
+      "title": "Comunicação",
+      "description": "A comunicação é uma das principais  chaves para abrir as portas de um caminhar bem sucedido. Saber se comunicar é fundamental e fará toda diferença."
+    },
+    {
+      "id": 4,
+      "title": "Pensamento Disruptivo",
+      "description": "Neste curso você terá a oportunidade de desenvolver habilidades de liderança e inteligência disruptiva para ser capaz de inovar em qualquer segmento ou indústria que atua ou deseja atuar."
+    },
+    {
+      "id": 5,
+      "title": "StoryTelling",
+      "description": "Storytelling é a habilidade de contar histórias utilizando enredo elaborado e narrativa envolvente. Um bom storytelling ajuda a promover o seu negócio e vender seus serviços de forma indireta."
+    },
+    {
+      "id": 6,
+      "title": "Alta Produtividade",
+      "description": "Aumente sua produtividade e saiba como produzir muito, com o mínimo de recursos possíveis, mantendo a qualidade e a motivação de sua equipe."
+    },
+    {
+      "id": 7,
+      "title": "Inteligência Emocional",
+      "description": "A inteligência emocional é uma competência essencial, pois ajuda a lidar com a pressão, conflitos nos relacionamentos internos e desafios do cotidiano."
+    },
+    {
+      "id": 8,
+      "title": "Arte de falar bem",
+      "description": "Aprenda a organizar sua fala e transmitir sua mensagem de forma clara, objetiva e envolvente, conquistando seu público e expandindo seus horizontes."
+    }
   ],
-  "profile": { "name": "typicode" }
+  "tokens": [
+    {
+      "userId": 2,
+      "email": "dev@gmail.com",
+      "name": "Dev",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRldkBnbWFpbC5jb20iLCJpYXQiOjE2ODA1NjAzMDYsImV4cCI6MTY4MDU2MzkwNiwic3ViIjoiMiJ9.SE_IhhR5rtg3AD-BxsDsPOY5Qb2MfQUxraZQ4ERXlZQ",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "email": "tobe@becode.com",
+      "name": "Fulano",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvYmVAYmVjb2RlLmNvbSIsImlhdCI6MTY3ODI0MTAxOCwiZXhwIjoxNjc4MjQ0NjE4LCJzdWIiOiIxIn0.FCkf3JwCufH2IkYQARuYtr_Q2GTDuCKWlAjg3tuCedU",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "email": "becode@tobe.com",
+      "name": "BeCode",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJlY29kZUB0b2JlLmNvbSIsImlhdCI6MTY3OTY5NzQ3NiwiZXhwIjoxNjc5NzAxMDc2LCJzdWIiOiIzIn0.JFDKKyJXFFPcR3vdBiMktQV6xErkigenKU_xpJcpEQI",
+      "id": 3
+    }
+  ]
 }
