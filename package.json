@@ -2,9 +2,9 @@
   "name": "json",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
-    "start": "json-server --port 3000 --watch -r ./routes.json ./db.json -m ./node_modules/json-server-auth"
+    "start": "node api/server.js"
   },
   "keywords": [],
   "author": "",
