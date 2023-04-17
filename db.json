@@ -34,49 +34,49 @@
       "id": 1,
       "title": "Liderança",
       "description": "Neste curso você desenvolverá as habilidades necessárias para liderar nesse cenário em que a única constante é a mudança.",
-      "icon_url": "/iconsCourses/lideranca.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/lideranca.svg"
     },
     {
       "id": 2,
       "title": "Oratória",
       "description": "Aprenda a se expressar de forma clara e objetiva, melhorando sua comunicação interpessoal e, consequentemente, se destacando educacional e profissionalmente.",
-      "icon_url": "/iconsCourses/oratoria.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/oratoria.svg"
     },
     {
       "id": 3,
       "title": "Comunicação",
       "description": "A comunicação é uma das principais  chaves para abrir as portas de um caminhar bem sucedido. Saber se comunicar é fundamental e fará toda diferença.",
-      "icon_url": "/iconsCourses/comunicacao.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/comunicacao.svg"
     },
     {
       "id": 4,
       "title": "Pensamento Disruptivo",
       "description": "Neste curso você terá a oportunidade de desenvolver habilidades de liderança e inteligência disruptiva para ser capaz de inovar em qualquer segmento ou indústria que atua ou deseja atuar.",
-      "icon_url": "/iconsCourses/pensamento-disruptivo.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/pensamento-disruptivo.svg"
     },
     {
       "id": 5,
       "title": "StoryTelling",
       "description": "Storytelling é a habilidade de contar histórias utilizando enredo elaborado e narrativa envolvente. Um bom storytelling ajuda a promover o seu negócio e vender seus serviços de forma indireta.",
-      "icon_url": "/iconsCourses/storytelling.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/storytelling.svg"
     },
     {
       "id": 6,
       "title": "Alta Produtividade",
       "description": "Aumente sua produtividade e saiba como produzir muito, com o mínimo de recursos possíveis, mantendo a qualidade e a motivação de sua equipe.",
-      "icon_url": "/iconsCourses/alta-produtividade.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/alta-produtividade.svg"
     },
     {
       "id": 7,
       "title": "Inteligência Emocional",
       "description": "A inteligência emocional é uma competência essencial, pois ajuda a lidar com a pressão, conflitos nos relacionamentos internos e desafios do cotidiano.",
-      "icon_url": "/iconsCourses/inteligencia-emocional.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/inteligencia-emocional.svg"
     },
     {
       "id": 8,
       "title": "Arte de falar bem",
       "description": "Aprenda a organizar sua fala e transmitir sua mensagem de forma clara, objetiva e envolvente, conquistando seu público e expandindo seus horizontes.",
-      "icon_url": "/iconsCourses/a-arte-de-falar-bem.svg"
+      "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/a-arte-de-falar-bem.svg"
     }
   ],
   "tokens": [
