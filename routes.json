@@ -1,5 +1,6 @@
 {
   "users": 600,
   "/courses*": "/664/courses$1",
+  "/enrolled-courses*": "/664/enrolled-courses$1",
   "/tokens*": "/664/tokens$1"
 }
