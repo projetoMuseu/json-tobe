@@ -79,23 +79,73 @@
       "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/a-arte-de-falar-bem.svg"
     }
   ],
+  "enrolled-courses": [
+    {
+      "id": 1,
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvYmVAYmVjb2RlLmNvbSIsImlhdCI6MTY3ODI0MTAxOCwiZXhwIjoxNjc4MjQ0NjE4LCJzdWIiOiIxIn0.FCkf3JwCufH2IkYQARuYtr_Q2GTDuCKWlAjg3tuCedU",
+      "courses": [
+        {
+          "course_id": 1,
+          "title": "Liderança",
+          "description": "Neste curso você desenvolverá as habilidades necessárias para liderar nesse cenário em que a única constante é a mudança.",
+          "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/lideranca.svg",  
+          "progress": "80%"
+        },
+        {
+          "course_id": 2,
+          "title": "Oratória",
+          "description": "Aprenda a se expressar de forma clara e objetiva, melhorando sua comunicação interpessoal e, consequentemente, se destacando educacional e profissionalmente.",
+          "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/oratoria.svg",
+          "progress": "30%"
+        },
+        {
+          "course_id": 3,
+          "title": "Comunicação",
+          "description": "A comunicação é uma das principais  chaves para abrir as portas de um caminhar bem sucedido. Saber se comunicar é fundamental e fará toda diferença.",
+          "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/comunicacao.svg",
+          "progress": "50%"
+        },
+        {
+          "course_id": 4,
+          "title": "Pensamento Disruptivo",
+          "description": "Neste curso você terá a oportunidade de desenvolver habilidades de liderança e inteligência disruptiva para ser capaz de inovar em qualquer segmento ou indústria que atua ou deseja atuar.",
+          "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/pensamento-disruptivo.svg",         
+          "progress": "70%"
+        },
+        {
+          "course_id": 5,
+          "title": "StoryTelling",
+          "description": "Storytelling é a habilidade de contar histórias utilizando enredo elaborado e narrativa envolvente. Um bom storytelling ajuda a promover o seu negócio e vender seus serviços de forma indireta.",
+          "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/storytelling.svg", 
+          "progress": "80%"
+        },
+        {
+          "course_id": 6,
+          "title": "Alta Produtividade",
+          "description": "Aumente sua produtividade e saiba como produzir muito, com o mínimo de recursos possíveis, mantendo a qualidade e a motivação de sua equipe.",
+          "icon_url": "https://json-auth-tobe.vercel.app/iconsCourses/alta-produtividade.svg",        
+          "progress": "30%"
+        }
+      ]      
+    }
+  ],
   "tokens": [
     {
-      "userId": 2,
+      "user_id": 2,
       "email": "dev@gmail.com",
       "name": "Dev",
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRldkBnbWFpbC5jb20iLCJpYXQiOjE2ODA4NDgxNzQsImV4cCI6MTY4MDg1MTc3NCwic3ViIjoiMiJ9.EF3a9kmVd_pbGlxR7S6FYLwPsUx0KbT1-Cx-1nkI1mA",
       "id": 1
     },
     {
-      "userId": 1,
+      "user_id": 1,
       "email": "tobe@becode.com",
       "name": "Fulano",
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRvYmVAYmVjb2RlLmNvbSIsImlhdCI6MTY3ODI0MTAxOCwiZXhwIjoxNjc4MjQ0NjE4LCJzdWIiOiIxIn0.FCkf3JwCufH2IkYQARuYtr_Q2GTDuCKWlAjg3tuCedU",
       "id": 2
     },
     {
-      "userId": 3,
+      "user_id": 3,
       "email": "becode@tobe.com",
       "name": "BeCode",
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJlY29kZUB0b2JlLmNvbSIsImlhdCI6MTY3OTY5NzQ3NiwiZXhwIjoxNjc5NzAxMDc2LCJzdWIiOiIzIn0.JFDKKyJXFFPcR3vdBiMktQV6xErkigenKU_xpJcpEQI",
